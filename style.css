@@ -14,17 +14,21 @@
   box-sizing: border-box;
   font-family: var(--Quicksand);
 }
+
 html {
   scroll-behavior: smooth;
 }
+
 body {
   line-height: 1.4;
   color: var(--dark);
 }
+
 img {
   width: 100%;
   display: block;
 }
+
 .container {
   max-width: 1320px;
   margin: 0 auto;
